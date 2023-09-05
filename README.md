@@ -2,7 +2,7 @@
 - 📖 After learning a little bit of JavaScript a couple of years ago, I decided to change careers and study computer science.
 - 🎓 I'm working on my Master of Computer Science.
 - 👨🏽‍💻 I’m interested in becoming a software engineer.
-- 📚 I’m currently learning about Algorithms and how to make a website with HTML, CSS, and JavaScript
+- 📚 I’m currently learning about AI and Web Apps with Laravel
 - 🤓 I’m looking forwarding to learning as much as possible. One of the things that drew me to the field was the long-life commitment to learning. Technology is always evolving, and there's always something new to learn!
 - 🤟🏽 Current favorite language: C++
 - 📫 You can reach me at michaelluna244@gmail.com
