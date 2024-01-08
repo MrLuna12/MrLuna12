@@ -1,13 +1,48 @@
-- 👋 Hi, I’m @MrLuna12 
-- 📖 After learning a little bit of JavaScript a couple of years ago, I decided to change careers and study computer science.
-- 🎓 I'm working on my Master of Computer Science.
-- 👨🏽‍💻 I’m interested in becoming a software engineer.
-- 📚 I’m currently learning about AI and Web Apps with Laravel
-- 🤓 I’m looking forwarding to learning as much as possible. One of the things that drew me to the field was the long-life commitment to learning. Technology is always evolving, and there's always something new to learn!
-- 🤟🏽 Current favorite language: C++
-- 📫 You can reach me at michaelluna244@gmail.com
+# Michael Luna
 
-<!---
-MrLuna12/MrLuna12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/michael-j-luna)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-informational)](mailto:michaelluna244@gmail.com)
+
+## 👨‍💻 About Me
+
+Recent Computer Science graduate with a passion for software engineering. Adept at developing solutions and creating seamless user experiences. Eager to contribute my skills to innovative projects.
+
+## 🚀 Skills
+
+- **Languages:**
+  - C++, PHP, HTML5, CSS, JavaScript, Java, MySQL
+
+- **Tools and Technologies:**
+  - Git, Microsoft Azure DevOps
+
+- **Frameworks:**
+  - Bootstrap, Laravel, Spring Boot, Spring MVC
+
+- **Soft Skills:**
+  - Strong problem-solving, excellent communication, adaptability
+
+## 🌐 Projects
+
+### Student Points Management System
+#### Master’s Thesis (August 2023 – December 2023)
+
+- Created responsive interfaces using HTML, CSS, JavaScript, and Bootstrap.
+- Implemented robust server-side logic, user authentication, and secure transactions using PHP and Laravel.
+- Utilized Laravel Livewire for dynamic, real-time interfaces, enhancing user experience.
+- Designed and maintained MySQL database for accurate tracking of student achievements.
+
+### Web Application and API Development
+#### Information Technology Intern – ONEOK, Tulsa, OK (May 2023 – August 2023)
+
+- Collaborated with a team of 6 interns to develop a web application and API using Java and Spring Boot.
+- Managed code changes efficiently with Git and automated builds using Azure DevOps.
+- Conducted daily stand-up meetings and utilized Azure Boards for streamlined project organization.
+
+## 📈 GitHub Stats
+
+[![Michael Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrLuna12&show_icons=true&theme=dark)](https://github.com/MrLuna12)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/michael-j-luna)
+- [Email](mailto:michaelluna244@gmail.com)
