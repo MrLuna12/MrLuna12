@@ -9,17 +9,17 @@ Recent Computer Science graduate with a passion for software engineering. Adept 
 
 ## 🚀 Skills
 
-- **Languages:**
-  - C++, PHP, HTML5, CSS, JavaScript, Java, MySQL
+- **Languages & Databases:**
+  - `C++`, `PHP`, `HTML5`, `CSS`, `JavaScript`, `Java`, `MySQL`
 
 - **Tools and Technologies:**
-  - Git, Microsoft Azure DevOps
+  - `Git`, `Microsoft Azure DevOps`, `Scrum/Agile`
 
 - **Frameworks:**
-  - Bootstrap, Laravel, Spring Boot, Spring MVC
+  - `Bootstrap`, `Laravel`, `Spring Boot`, `Spring MVC`
 
 - **Soft Skills:**
-  - Strong problem-solving, excellent communication, adaptability
+  - Problem-Solving, Excellent Communication, Adaptability, Quick Learner
 
 ## 🌐 Projects
 
