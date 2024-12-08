@@ -1,7 +1,8 @@
-# Michael Luna
+# Hi I'm Luna
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/michael-j-luna)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-informational)](mailto:michaelluna244@gmail.com)
+![Profile](https://komarev.com/ghpvc/?username=MrLuna12e&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## 👨‍💻 About Me
 
