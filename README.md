@@ -1,49 +1,47 @@
-# Hi I'm Luna
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/michael-j-luna)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-informational)](mailto:michaelluna244@gmail.com)
-![Profile](https://komarev.com/ghpvc/?username=MrLuna12e&label=Profile%20Views&color=0e75b6&style=flat)
+# Hi, I'm Luna ✌🏽
+_Passionate about creating cool things and brewing the perfect cup!_
 
-## 👨‍💻 About Me
 
-Recent Computer Science graduate with a passion for software engineering. Adept at developing solutions and creating seamless user experiences. Eager to contribute my skills to innovative projects.
+## Who am I? 🤔
 
-## 🚀 Skills
+Welcome to my digital coffee shop—grab a cup and let's code!
 
-- **Languages & Databases:**
-  - `C++`, `PHP`, `HTML5`, `CSS`, `JavaScript`, `Java`, `MySQL`
+I'm Luna, a curly-haired developer trying to make it through life one bug at a time... just kidding! When I'm not coding, I like to play music, skate, and perfect my coffee brewing techniques! I believe coding is an art form, and every bug is just a puzzle waiting to be solved! 🎨🧩
 
-- **Tools and Technologies:**
-  - `Git`, `Microsoft Azure DevOps`, `Scrum/Agile`
+## ☕ My Dev Blend
 
-- **Frameworks:**
-  - `Bootstrap`, `Laravel`, `Spring Boot`, `Spring MVC`
+```ruby
+module LunasCoffeeCode
+  # The daily grind ☕
+  FAVORITE_BREWS = {
+    backend: %w[Ruby Rails PostgreSQL],
+    frontend: %w[Tailwind Stimulus Turbo],
+    version_control: :git
+  }
 
-- **Soft Skills:**
-  - Problem-Solving, Excellent Communication, Adaptability, Quick Learner
+  # Past blends I've experimented with 📚
+  PAST_BREWS = {
+    languages: %w[C++ PHP Java JavaScript],
+    frameworks: %w[Laravel SpringBoot Bootstrap],
+    databases: :MySQL,
+    tools: ['Azure DevOps', 'Scrum/Agile']
+  }
 
-## 🌐 Projects
+  # My brewing philosophy ✨
+  BREWING_STYLE  =  {
+    daily_practice: "Pair programming with awesome teammates",
+    approach: "Clean code over messy spills",
+    environment: "Agile, with a splash of fun",
+    mindset: "Every bug is a mystery flavor waiting to be solved" 
+  }
+end
 
-### Student Points Management System
-#### Master’s Thesis (August 2023 – December 2023)
-
-- Created responsive interfaces using HTML, CSS, JavaScript, and Bootstrap.
-- Implemented robust server-side logic, user authentication, and secure transactions using PHP and Laravel.
-- Utilized Laravel Livewire for dynamic, real-time interfaces, enhancing user experience.
-- Designed and maintained MySQL database for accurate tracking of student achievements.
-
-### Web Application and API Development
-#### Information Technology Intern – ONEOK, Tulsa, OK (May 2023 – August 2023)
-
-- Collaborated with a team of 6 interns to develop a web application and API using Java and Spring Boot.
-- Managed code changes efficiently with Git and automated builds using Azure DevOps.
-- Conducted daily stand-up meetings and utilized Azure Boards for streamlined project organization.
-
-## 📈 GitHub Stats
-
-[![Michael Luna's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrLuna12&show_icons=true&theme=dark)](https://github.com/MrLuna12)
+```
 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://linkedin.com/in/michael-j-luna)
 - [Email](mailto:michaelluna244@gmail.com)
+
+Let's code, create, and caffeinate! ☕✨
